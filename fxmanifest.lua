@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-version '1.9.1'
+version '1.9.3'
 game 'gta5'
 author 'PrimeState'
 lua54 'yes'
